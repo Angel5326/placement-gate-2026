@@ -161,7 +161,7 @@ placement-gate-2026/
 
 ## Connect
 
-- GitHub: [@Angel5326](https://github.com/Angel5326)
+- GitHub: [Abi Angelin](https://github.com/Angel5326)
 - LinkedIn: [Abi Angelin](https://www.linkedin.com/in/abiangelin)
 
 **Consistency over intensity. One day at a time.**
