@@ -1,0 +1,6 @@
+@'
+*.exe
+*.o
+*.out
+.vscode/
+'@ | Set-Content -Encoding ascii .gitignores
